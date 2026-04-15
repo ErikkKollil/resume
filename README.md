@@ -1,6 +1,6 @@
 # 👨‍💻 Козин Егор Сергеевич — Python Data Engineer
 
-> **Актуальное резюме:** [erikkollil.github.io/cv](https://erikkollil.github.io/cv)
+> **Актуальное резюме:** [вы можете найти здесь](https://erikkkollil.github.io/resume/)
 
 ---
 
